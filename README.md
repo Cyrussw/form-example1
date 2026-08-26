@@ -13,3 +13,5 @@ Bu proje açık kaynaklıdır ve herkes tarafından katkıda bulunulabilir. Herh
 ## Lisans
 
 Bu proje MIT lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+
+Legacy Learning Project — Built independently.
